@@ -1,6 +1,6 @@
-<h1 align="center">👋 Assalomu alaykum, I'm Anasxon Ummataliyev!</h1>
+<h1>👋 Assalomu alaikum, I'm Anasxon Ummataliyev!</h1>
 <p align="center">
-  🚀 I am a Backend Developer (Python) who is passionate about solving problems with clean code.  
+  🚀 I am a Backend Developer (Python🐍) who is passionate about solving problems with clean code.  
   💡 Exploring **Data Analytics, AI, and Software Development**.
 </p>
 
