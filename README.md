@@ -43,4 +43,4 @@
 ---
 
 ## 📊 GitHub Stats:
-![Anasxon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnasxonUmmataliyev&show_icons=true&theme=dark)
+![Anasxon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasxonummataliy&show_icons=true&theme=dark)
