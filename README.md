@@ -1,4 +1,4 @@
-<h1 align="center" >👋 Assalamu alaikum nice meet you</h1>
+<h1 align="center" >👋 Assalamu alaikum nice meet you😊</h1>
 <p align="center">
   🚀 I am a Backend Developer (Python🐍) who is passionate about solving problems with clean code.  
   💡 Exploring **Data Analytics, AI, and Software Development**.
