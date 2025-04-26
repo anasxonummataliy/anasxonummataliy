@@ -79,7 +79,7 @@
 
 ## 📬 Get in Touch
 - 📧 Email: [aummataliy@gmail.com](mailto:aummataliy@gmail.com)  
-- 💬 Chat: [Telegram](https://t.me/anasxonummataliy) | [LinkedIn](https://linkedin.com/in/anaskhon-ummataliy-9a02b0339)  
+- 💬 Chat: [Telegram](https://t.me/anasxon_ummataliy) | [LinkedIn](https://linkedin.com/in/anaskhon-ummataliy-9a02b0339)  
 - 🌐 Code: [GitHub](https://github.com/anasxonummataliy)  
 
 <p align="center">
