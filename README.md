@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 Who Am I?
-- 🔍 **Currently exploring**: Data Science, Machine Learning, and AI-driven applications.  
+- 🔍 **Currently exploring**: Data Science and AI-driven applications.  
 - 💻 **Expertise**: Building robust backend systems with Python, Django, and FastAPI.  
 - 📧 **Contact me**: [aummataliy@gmail.com](mailto:aummataliy@gmail.com).  
 - 🤝 **Open for**: Collaborations, open-source projects, and innovative challenges.  
@@ -56,14 +56,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
----
-
-## 🏆 Showcase Projects
-- **[Your Project Name]**: A Django-based web application with PostgreSQL for [describe purpose]. ([Repo](#) | [Demo](#))  
-- **[Your API Project]**: A high-performance API built with FastAPI and Dockerized for scalability. ([Repo](#))  
-- **[Your AI Project]**: A machine learning model for [specific use case], powered by Python. ([Repo](#))  
-
-*Discover more on my [GitHub](https://github.com/anasxonummataliy?tab=repositories)!*
 
 ---
 
