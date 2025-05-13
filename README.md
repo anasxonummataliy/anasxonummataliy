@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">✦ Anasxon Ummataliy ✦</h2>
+  <h2 align="center">✦ 👋 Assalamu Alaikum! I'm Anasxon Ummataliy 🚀 ✦</h2>
 </p>
 
 <p align="center">
@@ -7,7 +7,6 @@
 </p>
 
 
-<h1 align="center">👋 Assalamu Alaikum! I'm Anasxon Ummataliy 🚀</h1>
 <p align="center">
   🐍 <strong>Backend Developer</strong> | Turning ideas into scalable solutions with Python.  
   💡 Enthusiast of <strong>Data Science, AI, and Software Innovation</strong>.  
