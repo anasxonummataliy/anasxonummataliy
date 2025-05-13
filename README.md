@@ -1,3 +1,12 @@
+<p align="center">
+  <h2 align="center">✦ Anasxon Ummataliy ✦</h2>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&desc=Developer%20Journey%20Since%202022&descAlign=50&descAlignY=70" />
+</p>
+
+
 <h1 align="center">👋 Assalamu Alaikum! I'm Anasxon Ummataliy 🚀</h1>
 <p align="center">
   🐍 <strong>Backend Developer</strong> | Turning ideas into scalable solutions with Python.  
