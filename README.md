@@ -69,11 +69,11 @@
 
 ## 📈 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasxonummataliy&show_icons=true&theme=dracula" alt="GitHub Stats" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasxonummataliy&theme=dracula" alt="GitHub Streak" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anasxonummataliy&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasxonummataliy&show_icons=true&theme=dracula" alt="GitHub Streak" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasxonummataliy&layout=compact&theme=dracula" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasxonummataliy&layout=compact&theme=dracula" alt="Top Languages" width="400"/>
 </p>
 
 ---
