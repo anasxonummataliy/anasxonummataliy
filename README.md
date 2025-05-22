@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">✦ 👋 Assalamu Alaikum! I'm Anasxon Ummataliy 🚀 ✦</h2>
+  <h2 align="center">✦ 👋 Assalamu alaikum! I'm Anasxon Ummataliy 🚀 ✦</h2>
 </p>
 
 <p align="center">
