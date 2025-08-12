@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://t.me/anasxonummataliy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://instagram.com/anasxon_ummataliy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/anaskhon-ummataliy-9a02b0339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/anasxon_ummataly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/anasxonummataliy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -87,7 +87,7 @@
 
 ## 📬 Get in Touch
 - 📧 Email: [aummataliy@gmail.com](mailto:aummataliy@gmail.com)  
-- 💬 Chat: [Telegram](https://t.me/anasxon_ummataliy) | [LinkedIn](https://linkedin.com/in/anaskhon-ummataliy-9a02b0339)  
+- 💬 Chat: [Telegram](https://t.me/anasxon_ummataliy) | [LinkedIn](https://linkedin.com/in/anasxon_ummataly)  
 - 🌐 Code: [GitHub](https://github.com/anasxonummataliy)  
 
 <p align="center">
