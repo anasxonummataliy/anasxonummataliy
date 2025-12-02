@@ -5,10 +5,6 @@
 <h3 align="center"></h3>
 
 
-## 📈 GitHub Statistikam:
-
-<img src="https://github-readme-stats.vercel.app/api?username=anasxonummataliy&show_icons=true&theme=tokyonight" />
-
 ## LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/anasxonummataliy?theme=dark&font=Noto%20Sans)](https://leetcode.com/anasxonummataliy)
