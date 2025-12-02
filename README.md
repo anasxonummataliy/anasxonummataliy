@@ -3,5 +3,7 @@
 </h1>
 
 <h3 align="center"></h3>
+## LeetCode
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anasxonummataliy?theme=dark&font=Noto%20Sans)](https://leetcode.com/anasxonummataliy)
 
