@@ -3,6 +3,7 @@
 </h1>
 
 <h3 align="center"></h3>
+
 # 👋 About Me
 
 Hi, I'm **Anasxon Ummataliy** – a passionate Python Software Engineer and a 2nd-year Bachelor's student at **PDP University** (2/4).
