@@ -4,21 +4,33 @@
 
 <h3 align="center"></h3>
 
-# 👋 About Me
+# 💫 About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Anasxon Ummataliy"
+        self.role = "Python Software Engineer"
+        self.education = "PDP University (Bachelor 2/4)"
+        self.languages = ["Python", "C++", "JavaScript"]
+        self.current_focus = "Backend Development"
+        
+    def get_skills(self):
+        return {
+            "frameworks": ["FastAPI", "Django", "Flask", "Aiogram"],
+            "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+            "tools": ["Docker", "Git", "Linux"]
+        }
+    
+    def say_hello(self):
+        return "Let's build something great together! 🚀"
 
-Hi, I'm **Anaskhon Ummataliy** – a passionate Python Software Engineer and a 2nd-year Bachelor's student at **PDP University** (2/4).
+me = Developer()
+print(me.say_hello())
+```
 
-I specialize in building robust backend systems and web applications using modern Python frameworks. My focus areas include:
+🎯 I'm a second-year software engineering student with a passion for solving real-world problems through code. Specializing in Python backend development, I enjoy creating efficient, scalable solutions and constantly learning new technologies.
 
-- 🐍 Backend Development with **FastAPI**, **Django**, and **Flask**
-- 🤖 Telegram Bot Development using **Aiogram**
-- 🗄️ Database Design and Management (**PostgreSQL**, **MySQL**, **MongoDB**, **Redis**)
-- 🐳 Containerization with **Docker**
-- 🚀 Building scalable and efficient APIs
-
-I'm constantly learning and exploring new technologies to enhance my skills and deliver high-quality solutions. Currently expanding my knowledge in system design, microservices architecture, and cloud technologies.
-
-💡 *Always open to collaboration and new opportunities!*
+📫 Open for collaboration and exciting projects!
 
 # My Skills
 
