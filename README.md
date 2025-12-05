@@ -3,6 +3,21 @@
 </h1>
 
 <h3 align="center"></h3>
+# 👋 About Me
+
+Hi, I'm **Anasxon Ummataliy** – a passionate Python Software Engineer and a 2nd-year Bachelor's student at **PDP University** (2/4).
+
+I specialize in building robust backend systems and web applications using modern Python frameworks. My focus areas include:
+
+- 🐍 Backend Development with **FastAPI**, **Django**, and **Flask**
+- 🤖 Telegram Bot Development using **Aiogram**
+- 🗄️ Database Design and Management (**PostgreSQL**, **MySQL**, **MongoDB**, **Redis**)
+- 🐳 Containerization with **Docker**
+- 🚀 Building scalable and efficient APIs
+
+I'm constantly learning and exploring new technologies to enhance my skills and deliver high-quality solutions. Currently expanding my knowledge in system design, microservices architecture, and cloud technologies.
+
+💡 *Always open to collaboration and new opportunities!*
 
 # My Skills
 
