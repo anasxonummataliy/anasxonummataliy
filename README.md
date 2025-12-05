@@ -6,7 +6,7 @@
 
 # 👋 About Me
 
-Hi, I'm **Anasxon Ummataliy** – a passionate Python Software Engineer and a 2nd-year Bachelor's student at **PDP University** (2/4).
+Hi, I'm **Anaskhon Ummataliy** – a passionate Python Software Engineer and a 2nd-year Bachelor's student at **PDP University** (2/4).
 
 I specialize in building robust backend systems and web applications using modern Python frameworks. My focus areas include:
 
