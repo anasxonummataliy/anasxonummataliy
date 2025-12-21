@@ -6,23 +6,24 @@
 
 # 💫 About Me
 ```python
+@dataclass
 class Developer:
-    def __init__(self):
-        self.name = "Anasxon Ummataliy"
-        self.role = "Python Software Engineer"
-        self.education = "PDP University (Bachelor 2/4)"
-        self.languages = ["Python", "C++", "JavaScript"]
-        self.current_focus = "Backend Development"
-        
+    name = "Anasxon Ummataliy"
+    role = "Python Software Engineer"
+    education = "PDP University (Bachelor 2/4)"
+    languages = ["Python", "C++", "JavaScript"]
+    current_focus = "Backend Development"
+
     def get_skills(self):
         return {
             "frameworks": ["FastAPI", "Django", "Flask", "Aiogram"],
             "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-            "tools": ["Docker", "Git", "Linux"]
+            "tools": ["Docker", "Git", "Linux"],
         }
-    
+
     def say_hello(self):
         return "Let's build something great together! 🚀"
+
 
 me = Developer()
 print(me.say_hello())
