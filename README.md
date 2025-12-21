@@ -6,6 +6,7 @@
 
 # 💫 About Me
 ```python
+from dataclasses import dataclass
 @dataclass
 class Developer:
     name = "Anasxon Ummataliy"
