@@ -21,7 +21,7 @@ class Developer:
         return {
             "frameworks": ["FastAPI", "Django", "Flask", "Aiogram"],
             "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-            "tools": ["Docker", "Git", "Linux"],
+            "tools": ["Docker", "Git", "MacOS"],
         }
 
     def say_hello(self):
