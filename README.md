@@ -19,8 +19,8 @@ class Developer:
 
     def get_skills(self):
         return {
-            "frameworks": ["FastAPI", "Django", "Flask", "Aiogram"],
-            "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+            "frameworks": ["FastAPI", "Aiogram"],
+            "databases": ["PostgreSQL", "MySQL", "Redis"],
             "tools": ["Docker", "Git", "MacOS"],
         }
 
